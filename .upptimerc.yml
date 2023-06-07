@@ -7,6 +7,8 @@ sites:
     url: $API_ENDPOINT
   - name: Blog
     url: $BLOG_ENDPOINT
+  - name: Auth0
+    url: $AUTH0_ENDPOINT
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

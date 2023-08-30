@@ -4,10 +4,10 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
@@ -15,7 +15,9 @@
     "timeWeek": 149,
     "timeMonth": 193,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-30": 1
+    }
   },
   {
     "name": "Blog",
@@ -41,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth0",
     "status": "up",
-    "uptime": "74.22%",
+    "uptime": "73.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "29.62%",
-    "uptimeYear": "74.22%",
+    "uptimeMonth": "26.87%",
+    "uptimeYear": "73.48%",
     "time": 401,
     "timeDay": 328,
     "timeWeek": 166,
     "timeMonth": 766,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-08-30": 52,
+      "2023-08-30": 1254,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,

@@ -4,19 +4,19 @@
     "url": "$API_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.70%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 264,
-    "timeWeek": 149,
-    "timeMonth": 193,
+    "timeDay": 240,
+    "timeWeek": 157,
+    "timeMonth": 194,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2023-08-30": 1
+      "2023-08-30": 4
     }
   },
   {
@@ -46,7 +46,7 @@
     "uptime": "73.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "26.87%",
+    "uptimeMonth": "26.86%",
     "uptimeYear": "73.48%",
     "time": 401,
     "timeDay": 328,
@@ -54,7 +54,7 @@
     "timeMonth": 766,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-08-30": 1254,
+      "2023-08-30": 1258,
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,

@@ -80,19 +80,19 @@
     "url": "$BLOG_ENDPOINT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.58%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 323,
-    "timeDay": 3013,
-    "timeWeek": 1832,
-    "timeMonth": 839,
+    "timeDay": 2716,
+    "timeWeek": 1732,
+    "timeMonth": 825,
     "timeYear": 333,
     "dailyMinutesDown": {
-      "2024-07-11": 0
+      "2024-07-11": 6
     }
   },
   {

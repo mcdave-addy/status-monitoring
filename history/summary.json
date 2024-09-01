@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "87.69%",
+    "uptime": "87.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "84.87%",
+    "uptimeYear": "85.15%",
     "time": 204,
-    "timeDay": 252,
-    "timeWeek": 212,
-    "timeMonth": 222,
+    "timeDay": 147,
+    "timeWeek": 215,
+    "timeMonth": 216,
     "timeYear": 204,
     "dailyMinutesDown": {
       "2023-10-25": 374,
@@ -68,8 +68,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   },
   {
@@ -78,16 +77,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "auth0",
     "status": "up",
-    "uptime": "90.12%",
+    "uptime": "90.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.95%",
+    "uptimeYear": "94.23%",
     "time": 285,
-    "timeDay": 202,
-    "timeWeek": 190,
-    "timeMonth": 189,
-    "timeYear": 257,
+    "timeDay": 353,
+    "timeWeek": 212,
+    "timeMonth": 193,
+    "timeYear": 258,
     "dailyMinutesDown": {
       "2023-09-22": 163,
       "2023-09-21": 1440,
@@ -108,8 +107,7 @@
       "2023-09-06": 1440,
       "2023-09-05": 1440,
       "2023-09-04": 1440,
-      "2023-09-03": 1440,
-      "2023-09-02": 1440
+      "2023-09-03": 1440
     }
   }
 ]

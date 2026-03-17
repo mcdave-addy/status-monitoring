@@ -1,7 +1,7 @@
 url: $AUTH0_ENDPOINT
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-03-17T19:36:07.474Z
+status: up
+code: 200
+responseTime: 574
+lastUpdated: 2026-03-17T21:56:18.775Z
 startTime: 2023-06-07T23:27:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
